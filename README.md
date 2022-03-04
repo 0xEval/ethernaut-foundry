@@ -33,7 +33,8 @@ Eg [Fallback test are located in ./src/test/01-Fallback.t.sol](src/test/01-Fallb
 
 | Level                       |
 | --------------------------- |
-| [1. Fallback](src/Fallback) |
+| [1. Fallback](src/levels/01-Fallback) |
+| [2. Fallout](src/levels/02-Fallout) |
 
 
 ## References
