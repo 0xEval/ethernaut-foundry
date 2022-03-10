@@ -22,7 +22,7 @@ contract CoinflipTest is DSTest {
         vm.deal(attacker, 1 ether); // fund our attacker contract with 1 ether
     }
 
-    function testCoinFlipHack() public {
+    function testCoinflipHack() public {
         //--------------------------------------------------------------------------------
         //                             Setup Level Instance
         //--------------------------------------------------------------------------------
